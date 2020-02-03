@@ -1,0 +1,231 @@
+@media (max-width: 1125px) {
+	
+	.wizardpanel .wizardpanel-header-inner {
+		padding: 15px 30px 0 30px;
+	}
+	
+	.wizardpanel .wizardpanel-header .wizardpanel-header-left {
+		display: none;
+	}
+	
+	.wizardpanel .wizardpanel-header .wizardpanel-header-right .wizardpanel-mascot {
+		display: block;
+		bottom: 0;
+		right: -17px;
+		position: absolute;
+		z-index: 1;
+	}	
+	
+	.wizardpanel .wizardpanel-header .wizardpanel-header-right {
+		width: 100%;
+	}	
+	
+	.wizardpanel .wizardpanel-header .wizardpanel-header-right .wizardpanel-logo {
+		float: left;
+		margin: 0;
+	}
+	
+	.wizardpanel .wizardpanel-header .wizardpanel-header-right ul {
+		margin: 25px 0 0 0;
+		z-index: 9996;
+		position: relative;
+	}
+	
+	.wizardpanel .wizardpanel-header .wizardpanel-header-right li {
+		margin-bottom: 10px;
+	}
+	
+	.wizardpanel .wizardpanel-header .wizardpanel-header-right ul li a {	
+		border-radius: 5px;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+	}
+	
+	.wizardpanel .wizardpanel-content .wizardpanel-content-right {
+		border-radius: 0 0 15px 0;
+		-moz-border-radius: 0 0 15px 0;
+		-webkit-border-radius: 0 0 15px 0;
+		-khtml-border-radius: 0 0 15px 0; 
+	}	
+	
+	.wizardpanel .wizardpanel-content .wizardpanel-content-left {
+		padding-top: 0;
+	}
+
+}
+
+@media (max-width: 870px) {
+	
+	.wizardpanel .wizardpanel-content .wizardpanel-content-left {
+		width: 100%;
+	}
+	
+	.wizardpanel .wizardpanel-content .wizardpanel-content-left .wizardpanel-tabsmenu {
+		border-radius: 0;	
+		padding: 10px 0;
+		border-top: #DEE2E8 1px solid;
+		border-bottom: #DEE2E8 1px solid;		
+	}	
+	
+	.wizardpanel .wizardpanel-content .wizardpanel-content-left .wizardpanel-tabsmenu ul {
+		display: none;
+	}
+	
+	.wizardpanel .wizardpanel-content .wizardpanel-content-left .wizardpanel-tabsmenu select {
+		display: inline; 
+		background: #011438;
+		color: #fff;
+		width: 96%; 
+		height: 40px;
+		padding: 0 1%;
+		border: none;
+		margin: 0 2% 0 2%;
+		position: relative;
+		text-align: center;
+		border: #000 1px solid;
+		-webkit-appearance: button !important;
+		-moz-appearance: button !important;
+		appearance: button !important;		
+	}
+	
+	.wizardpanel .wizardpanel-content .wizardpanel-content-right {
+		width: 100%;
+		clear: both;
+		border-radius: 0 0 15px 15px;
+		-webkit-border-radius: 0 0 15px 15px;
+		-moz-border-radius: 0 0 15px 15px;			
+	}	
+	
+	.wizardpanel .wizardpanel-sidebar-inner { padding: 0; }
+	
+}
+
+
+@media (max-width: 770px) {
+	
+	.wizardpanel .wizardpanel-header .wizardpanel-header-right .wizardpanel-mascot {
+		display: none;
+	}
+	
+	.wizardpanel .wizardpanel-header .wizardpanel-header-right .wizardpanel-logo {
+		float: none;
+		text-align: center;
+		margin-right: 0;
+	}
+	
+	
+.wizardpanel .wizardpanel-header .wizardpanel-header-right ul { float: none; text-align: center; }    
+.wizardpanel .wizardpanel-header .wizardpanel-header-right ul li { display: inline-block; float: none; }
+.wizardpanel .wizardpanel-header .wizardpanel-header-right ul li a { line-height: 13px; padding: 7px 15px; }
+	
+}	
+
+
+@media (max-width: 690px) {
+	
+.wizardpanel .wizardpanel-column3 .wizardpanel-col {
+	width: 48.5%;
+}
+
+.wizardpanel .wizardpanel-column3 .wizardpanel-col3,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col6,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col9,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col12,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col15,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col18,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col21,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col24 {
+	margin-right: 3%;
+}
+
+.wizardpanel .wizardpanel-column3 .wizardpanel-col2,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col4,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col6,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col8,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col10,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col12,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col14,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col16,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col18,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col20,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col22,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col24 {
+	margin-right: 0;
+}
+
+.wizardpanel .wizardpanel-column3 .wizardpanel-col4,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col7,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col10,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col13,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col16,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col19,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col22,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col25 {
+	clear: none;
+}
+
+.wizardpanel .wizardpanel-column3 .wizardpanel-col3,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col5,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col7,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col9,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col11,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col13,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col15,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col17,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col19,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col21,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col23,
+.wizardpanel .wizardpanel-column3 .wizardpanel-col25 {
+	clear: left;
+}	
+
+.wizardpanel .wizardpanel-column2 .wizardpanel-col {
+	width: 100%;
+	margin-right: 0;
+	clear: left;
+}	
+	
+}
+
+@media (max-width: 500px) {
+	
+	.wizardpanel {
+		width: 100%;
+		max-width: none;
+		border-radius: 0;
+		border: none;
+	}
+	
+	.wizardpanel .wizardpanel-content .wizardpanel-content-right {
+		border-radius: 0;
+	}
+	
+	.wizardpanel .wizardpanel-content .wizardpanel-topbar .wizardpanel-title {
+		width: 100%;
+		margin: 0 0 10px 0;
+	}
+	
+	.wizardpanel .wizardpanel-content .wizardpanel-topbar .wizardpanel-button-save {
+		clear: left;
+		width: 100%;
+	}
+	
+	.wizardpanel .wizardpanel-content .wizardpanel-topbar .wizardpanel-button-save .wizardpanel-button {
+		float: left;
+	}
+	
+	.wizardpanel .wizardpanel-column3 .wizardpanel-col {
+		width: 100%;
+		margin-right: 0;
+		clear: left;
+	}	
+	
+	.wizardpanel .wizardpanel-highlightbox img {
+		float: none;
+		margin: 0px auto 10px auto;
+		display: table;
+	}
+	
+	
+	
+}
